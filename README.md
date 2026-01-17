@@ -272,15 +272,12 @@ public partial class NewControl : UserControl
 4. Отправьте в ветку (`git push origin feature/AmazingFeature`)
 5. Откройте Pull Request
 
-## 📄 Лицензия
-
-Этот проект лицензирован под MIT License - см. файл [LICENSE](LICENSE) для деталей.
 
 ## 👨💻 Автор
 
 **[Ваше имя]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/MarkJur-afk)
+- Email: markjurgennn@gmail.com
 
 ## 🙏 Благодарности
 
